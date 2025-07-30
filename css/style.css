@@ -1,0 +1,28 @@
+/* Paleta de colores */
+body {
+  background-color: #3e80c2;
+  color: #941414;
+  font-family: Montserrat;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Tipografía */
+h1 {
+  color: #2b6cb0;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Box model (ejemplo con caja) */
+div.caja {
+  border: 2px solid #4a5568;
+  padding: 200px;
+  margin-top: 200px;
+  background-color: #fff;
+}
